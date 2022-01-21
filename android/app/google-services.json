@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623277285197",
+    "project_id": "pemograman-mobile-ba813",
+    "storage_bucket": "pemograman-mobile-ba813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623277285197:android:1e3609dbdf5bbd81336104",
+        "android_client_info": {
+          "package_name": "com.example.login_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623277285197-p98t9k2p2a7j07slvlqro7ufmso55nhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUqW4xHRyC57V28TTW23c-MTbD6bJG14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623277285197-p98t9k2p2a7j07slvlqro7ufmso55nhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
